@@ -1,6 +1,6 @@
 public class myfirstprogram{
 	public static void main(String[] args){
 		System.out.println("Hello World");
-		System.out.println("Attttt");
+		System.out.println("About a month of school left.");
 	}
 }
